@@ -24,7 +24,7 @@ cd ShoppingTask
 ### Frontend Setup
 
 ```bash
-cd frontend
+cd TactaShoppingTaskFront
 npm install
 ng serve
 ```
