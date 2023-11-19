@@ -1,7 +1,6 @@
 # Tacta Shopping Task
 
-This project combines Angular 15.2.10 for the frontend, .NET 6 Web API for the backend, and MSSQL Server for database storage. It provides a robust foundation for building modern web applications with a responsive user interface, a scalable server-side architecture, and a reliable database backend.
-
+This project combines Angular 15.2.10 for the frontend, .NET 6 Web API for the backend, and MSSQL Server for database storage. 
 ## Getting Started
 
 To run this project locally, ensure you have the following software installed on your machine:
@@ -36,6 +35,7 @@ The Angular application will be accessible at `http://localhost:4200/` by defaul
 ```bash
 cd TactaShoppingTask
 dotnet restore
+dotnet ef database -s TactaShoppingTask/TactaShoppingTask.csproj update
 dotnet run
 ```
 
@@ -46,11 +46,16 @@ The .NET Web API will be hosted at `http://localhost:7229/` by default.
 - Ensure MSSQL Server is installed and running.
 - Update the database connection string in the `TactaShoppingTask/Properties/appsettings.json` file to match your MSSQL Server setup.
 
-## Project Structure
+## Architecture Principles
 
+This project adheres to SOLID principles, promoting maintainability and scalability by emphasizing separation of concerns and modularity. The three-layer architecture ensures a clear separation between the presentation, business, and data access layers, making the codebase more organized and extensible.
+
+## Project Structure
 - **frontend**: Contains the Angular application.
-- **backend**: Contains the .NET 6 Web API.
-- **database**: Placeholder for database scripts or migrations.
+- **backend**: Contains the .NET 6 Web API following a three-layer architecture:
+  - **Presentation Layer**: Handles HTTP requests and responses.
+  - **Business Layer**: Implements business logic and application rules.
+  - **Data Access Layer**: Manages interaction with the database.
 
 
 ## License
