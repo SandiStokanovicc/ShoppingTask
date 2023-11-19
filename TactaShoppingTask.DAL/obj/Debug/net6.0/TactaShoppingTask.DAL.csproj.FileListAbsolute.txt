@@ -1,0 +1,14 @@
+C:\Users\Shaz\source\repos\TactaShoppingTask\TactaShoppingTask.DAL\bin\Debug\net6.0\TactaShoppingTask.DAL.deps.json
+C:\Users\Shaz\source\repos\TactaShoppingTask\TactaShoppingTask.DAL\bin\Debug\net6.0\TactaShoppingTask.DAL.runtimeconfig.json
+C:\Users\Shaz\source\repos\TactaShoppingTask\TactaShoppingTask.DAL\bin\Debug\net6.0\TactaShoppingTask.DAL.dll
+C:\Users\Shaz\source\repos\TactaShoppingTask\TactaShoppingTask.DAL\bin\Debug\net6.0\TactaShoppingTask.DAL.pdb
+C:\Users\Shaz\source\repos\TactaShoppingTask\TactaShoppingTask.DAL\obj\Debug\net6.0\TactaShoppingTask.DAL.csproj.AssemblyReference.cache
+C:\Users\Shaz\source\repos\TactaShoppingTask\TactaShoppingTask.DAL\obj\Debug\net6.0\TactaShoppingTask.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaz\source\repos\TactaShoppingTask\TactaShoppingTask.DAL\obj\Debug\net6.0\TactaShoppingTask.DAL.AssemblyInfoInputs.cache
+C:\Users\Shaz\source\repos\TactaShoppingTask\TactaShoppingTask.DAL\obj\Debug\net6.0\TactaShoppingTask.DAL.AssemblyInfo.cs
+C:\Users\Shaz\source\repos\TactaShoppingTask\TactaShoppingTask.DAL\obj\Debug\net6.0\TactaShoppingTask.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Shaz\source\repos\TactaShoppingTask\TactaShoppingTask.DAL\obj\Debug\net6.0\TactaShoppingTask.DAL.dll
+C:\Users\Shaz\source\repos\TactaShoppingTask\TactaShoppingTask.DAL\obj\Debug\net6.0\refint\TactaShoppingTask.DAL.dll
+C:\Users\Shaz\source\repos\TactaShoppingTask\TactaShoppingTask.DAL\obj\Debug\net6.0\TactaShoppingTask.DAL.pdb
+C:\Users\Shaz\source\repos\TactaShoppingTask\TactaShoppingTask.DAL\obj\Debug\net6.0\TactaShoppingTask.DAL.genruntimeconfig.cache
+C:\Users\Shaz\source\repos\TactaShoppingTask\TactaShoppingTask.DAL\obj\Debug\net6.0\ref\TactaShoppingTask.DAL.dll
